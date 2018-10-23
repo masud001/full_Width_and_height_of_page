@@ -1,0 +1,40 @@
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.section-area{
+	position: relative;
+}
+.section-area h1{
+    margin: 0px;
+    padding: 0px;
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    display: block;
+    text-transform: capitalize;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.section-bg-1{
+	background-color: skyblue;
+}
+.section-bg-2{
+	background-color: blue;
+}
+.section-bg-3{
+	background-color: red;
+}
+.section-bg-4{
+	background-color: green;
+}
+.section-bg-5{
+	background-color: yellow;
+}
+.section-bg-6{
+	background-color: aqua;
+}
